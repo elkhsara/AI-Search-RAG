@@ -1,0 +1,27 @@
+{
+  "employee_id": "002",
+  "name": "Michael Rodriguez",
+  "position": "Research Scientist",
+  "department": "Research & Development",
+  "review_date": "2025-01-15",
+  "manager": "Dr. Jennifer Walsh",
+  "overall_rating": 4,
+  "rating_description": "Exceeds Expectations",
+  "key_achievements": [
+    "Lead researcher Project Atlas",
+    "2 peer-reviewed publications",
+    "1 patent application filed",
+    "Mentored 3 junior scientists"
+  ],
+  "areas_for_development": [
+    "Leadership training needed",
+    "Advanced data analysis skills",
+    "Increase conference presence"
+  ],
+  "current_salary_monthly": 5130,
+  "salary_increase_percent": 8,
+  "bonus_eligible": 3000,
+  "career_goal": "Senior scientist with management responsibilities",
+  "manager_recommendation": "Strongly recommend for promotion",
+  "retention_risk": "Low"
+}

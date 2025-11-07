@@ -1,0 +1,29 @@
+{
+  "employee_id": "001",
+  "name": "Sarah Chen",
+  "position": "Sales Executive",
+  "department": "Sales",
+  "review_date": "2025-01-10",
+  "manager": "David Kim",
+  "overall_rating": 3,
+  "rating_description": "Meets Expectations",
+  "key_achievements": [
+    "102% of sales quota achieved",
+    "8 new client acquisitions",
+    "94% client retention rate",
+    "Led CardioMax product launch"
+  ],
+  "major_concerns": [
+    "Work-life balance issues",
+    "High stress levels",
+    "Excessive travel requirements"
+  ],
+  "current_salary_monthly": 5993,
+  "salary_increase_percent": 5,
+  "total_commission": 47200,
+  "bonus_earned": 8500,
+  "career_interest": "Strategic account management",
+  "manager_recommendation": "Address work-life balance immediately",
+  "retention_risk": "High",
+  "action_required": "Flexible work arrangements needed"
+}
